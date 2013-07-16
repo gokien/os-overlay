@@ -1,6 +1,6 @@
-Explanation: OS patches for elementary OS.
+Explanation: OS patches for Gokien.
 Explanation: We need this pin because our patched build can lag a few hours behind Ubuntu's updates,
 Explanation: and during those few hours packages can be overwritten with unpatched ones.
 Package: *
-Pin: release o=LP-PPA-elementary-os-os-patches
-Pin-Priority: 999
+Pin: release o=Gokien
+Pin-Priority: 1000
