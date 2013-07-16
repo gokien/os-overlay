@@ -1,3 +1,9 @@
+gokien-os-overlay (0.1) precise; urgency=low
+
+  * Change branding to Gokien
+
+ -- Trung Ngo <ndtrung4419@gmail.com>  Wed, 17 Jul 2013 00:09:01 +0700
+
 elementary-os-overlay (0.1) unstable; urgency=low
 
   * Initial Release.

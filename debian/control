@@ -1,14 +1,14 @@
-Source: elementary-os-overlay
+Source: gokien-os-overlay
 Section: metapackages
 Priority: extra
-Maintainer: Sergey "Shnatsel" Davidoff <shnatsel@gmail.com>
+Maintainer: Trung Ngo <ndtrung4419@gmail.com>
 Build-Depends: debhelper (>= 7)
 Standards-Version: 3.9.2
 
-Package: elementary-os-overlay
+Package: gokien-os-overlay
 Architecture: all
 Depends: ${shlibs:Depends}, ${misc:Depends}
-Description: forces elementary OS overlay for some packages
+Description: forces Gokien overlay for some packages
  This package forces some patched packages to be installed from a ppa instead
  of using the latest version available.
  .
